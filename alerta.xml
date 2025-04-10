@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice" language="pt-BR">
-        Atenção. Alerta de segurança no sistema de monitoramento.
-    </Say>
+     </Say>
     <Play>https://renansantosferreira.github.io/tel/audioalerta.mp3</Play>
 </Response>
