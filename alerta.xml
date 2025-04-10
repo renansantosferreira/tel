@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Play>https://renansantosferreira.github.io/tel/audioalerta2.wav</Play>
+  <Say voice="alice" language="pt-BR">
+    Atenção. Alerta de teste do sistema.
+  </Say>
 </Response>
